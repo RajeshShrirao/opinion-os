@@ -1,5 +1,7 @@
 # Opinion-os
 
+![banner](banner.png)
+
 **Build your own Personal AI DNA.** Voice DNA — how you communicate. Opinion DNA — how you reason. Two modules, kept separate. Prompts, templates, and a one-click builder.
 
 Your AI doesn't have to write like a machine. Give it your Voice DNA and your Opinion DNA, and it writes like you and reasons like you — without inventing beliefs for you.
